@@ -1,1 +1,2 @@
 file-rename[[:space:]]Setup[[:space:]]0.1.0.exe filter=lfs diff=lfs merge=lfs -text
+File[[:space:]]Rename[[:space:]]Setup[[:space:]]0.1.0.exe filter=lfs diff=lfs merge=lfs -text
